@@ -1,0 +1,8 @@
+.title-bar {
+  /* Applying a linear gradient with multiple colors */
+  background: linear-gradient(90deg, #483d8b, #008080, #00008b);
+  color: white; /* White text */
+  text-align: center; /* Center the title */
+  padding: 16px 0; /* Padding around the title */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow */
+}
